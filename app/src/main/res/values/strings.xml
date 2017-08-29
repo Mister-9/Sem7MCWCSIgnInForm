@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SIgn In Form</string>
+    <string name="text_width">100dp</string>
+    <string name="text_height">50dp</string>
+    <string name="edit_width">200dp</string>
+
+</resources>
